@@ -1,1 +1,1 @@
-# EasingSampleApplication
+# Easing Sample Application
